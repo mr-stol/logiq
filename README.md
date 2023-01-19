@@ -1,4 +1,4 @@
-# logiq
+# logiQ
 ![image](https://user-images.githubusercontent.com/123085186/213489042-462c2415-3aa4-49a2-a480-202c80039f1a.png)
 
 
